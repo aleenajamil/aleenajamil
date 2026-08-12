@@ -1,4 +1,8 @@
-# About me
+<table>
+<tr>
+<td width="65%" valign="top">
+
+## About me
 
 Hi there human, I am **Aleena**.
 
@@ -17,8 +21,16 @@ Software Engineering student.
 
 - Leetcode
 
-> *"What? Like it's hard?"* — Elle Woods
+</td>
 
+<td width="35%" valign="top" align="right">
+
+*"What? Like it's hard?"*  
+— Elle Woods
+
+</td>
+</tr>
+</table>
 <p align="center">
   <img src="YOUR_STARRY_NIGHT_URL" width="700">
 </p>
