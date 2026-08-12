@@ -1,10 +1,8 @@
 # About me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Hi there human, I am **Aleena**.
 
-Hi there human, I am **Aleena**. I study **Software Engineering**.
+Software Engineering student.
 
 ### Things I'm passionate about
 
@@ -19,49 +17,34 @@ Hi there human, I am **Aleena**. I study **Software Engineering**.
 
 - Leetcode
 
-</td>
+> *"What? Like it's hard?"* — Elle Woods
 
-<td width="50%" valign="top" align="center">
-
-> *"What? Like it's hard?"*  
-> — Elle Woods
-
-<img src="YOUR_STARRY_NIGHT_URL" width="100%">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="YOUR_STARRY_NIGHT_URL" width="700">
+</p>
 
 <br>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img src="YOUR_TULIP_URL" width="700">
+</p>
 
-<img src="YOUR_TULIP_URL" width="100%">
-
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&hide_border=true&rank_icon=github" />
-
-</td>
-</tr>
-</table>
-
----
-
-# Technical Skills
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,express,nodejs,ts,cpp,python,bash,postgresql,godot,html,css,js" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&hide_border=true&theme=transparent">
 </p>
 
----
+## Technical Skills
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,express,nodejs,ts,cpp,python,bash,postgresql,godot,html,css,js">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg">
 </p>
