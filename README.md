@@ -1,7 +1,12 @@
-# About me :
+# About me
 
-Hi there human, I am Aleena. I study Software Engineering.
-Here are a few things I'm passionate about:
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Hi there human, I am **Aleena**. I study **Software Engineering**.
+
+### Things I'm passionate about
 
 - Coding
 - History
@@ -10,38 +15,53 @@ Here are a few things I'm passionate about:
 - Game Dev
 - Ideation
 
-Here are things I dislike but do anyway:
+### Things I dislike but do anyway
+
 - Leetcode
 
-> "What? Like it's hard?" — Elle Woods
+</td>
+
+<td width="50%" valign="top" align="center">
+
+> *"What? Like it's hard?"*  
+> — Elle Woods
+
+<img src="YOUR_STARRY_NIGHT_URL" width="100%">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<p align="center">
-<img src="PASTE_STARRY_NIGHT_RAW_URL_HERE" width="500" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<br>
+<img src="YOUR_TULIP_URL" width="100%">
 
-<p align="center">
-<img src="PASTE_TULIP_RAW_URL_HERE" width="500" />
-</p>
+</td>
 
-<br>
+<td width="50%" valign="top">
 
-## Aleena Jamil's GitHub Stats
-![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
+## GitHub Stats
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&hide_border=true&rank_icon=github" />
 
-## Technical Skills:
+</td>
+</tr>
+</table>
 
-logos of:
+---
+
+# Technical Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,express,nodejs,ts,cpp,python,bash,postgresql,godot,html,css,js" />
 </p>
 
-<br>
+---
 
-![snake gif](https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg" />
+</p>
