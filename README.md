@@ -7,8 +7,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-pi-ten-50.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical" />
 </p>
 
 ### 🐍 Contribution Snake
