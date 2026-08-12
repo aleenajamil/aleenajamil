@@ -1,15 +1,66 @@
-<h1 align="center">WELCOME TO MY PROFILE <3 </h1>
-<h3 align="center">I'm Aleena </h3>
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Check+Out+My+Repos!;Open+Source+Contributor;Always+Learning+Something+New;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+![About me](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=90&section=header&text=About%20me%20%3A&fontSize=32&fontColor=C2185B&fontAlignY=55&fontAlign=15&animation=fadeIn)
+
+</td>
+<td width="45%">
+
+![Quote](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=90&section=header&text=What%3F%20Like%20it%27s%20hard%3F%20-Elle%20Woods&fontSize=16&fontColor=C2185B&fontAlignY=55&animation=fadeIn)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+Hi there human, I am Aleena. I study Software Engineering.
+Here are a few things I'm passionate about:
+
+- Coding
+- History
+- Literature
+- Mathematics
+- Game Dev
+- Ideation
+
+Here are things I dislike but do anyway:
+- Leetcode
+
+</td>
+<td valign="top" align="center">
+
+![Starry Night, animated](https://media.giphy.com/media/LbBSU26sSRAE8/giphy.gif)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" align="center">
+
+<img src="YOUR_TULIP_IMAGE_URL_HERE" width="100%" />
+
+</td>
+<td valign="top">
+
+![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&bg_color=F6D9DC&title_color=C2185B&text_color=880E4F&icon_color=F48FB1&border_radius=15&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![Technical Skills](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=80&section=header&text=Technical%20Skills%3A&fontSize=26&fontColor=C2185B&fontAlignY=55&fontAlign=8&animation=fadeIn)
+
+<p>
+logos of:
 </p>
 
-### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-pi-ten-50.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical" />
+<img src="https://skillicons.dev/icons?i=linux,docker,express,nodejs,ts,cpp,python,bash,postgresql,godot,html,css,js" />
 </p>
+
+<br>
 
 
 ### 🐍 Contribution Snake
