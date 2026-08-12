@@ -1,13 +1,13 @@
-<table>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-![About me](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=90&section=header&text=About%20me%20%3A&fontSize=32&fontColor=C2185B&fontAlignY=55&fontAlign=15&animation=fadeIn)
+## About me :
 
 </td>
-<td width="45%">
+<td width="45%" valign="top">
 
-![Quote](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=90&section=header&text=What%3F%20Like%20it%27s%20hard%3F%20-Elle%20Woods&fontSize=16&fontColor=C2185B&fontAlignY=55&animation=fadeIn)
+### "What? Like it's hard?" — Elle Woods
 
 </td>
 </tr>
@@ -31,7 +31,7 @@ Here are things I dislike but do anyway:
 </td>
 <td valign="top" align="center">
 
-![Starry Night, animated](https://media.giphy.com/media/LbBSU26sSRAE8/giphy.gif)
+<img src="YOUR_STARRY_NIGHT_IMAGE_URL_HERE" width="100%" />
 
 </td>
 </tr>
@@ -44,17 +44,16 @@ Here are things I dislike but do anyway:
 </td>
 <td valign="top">
 
-![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&bg_color=F6D9DC&title_color=C2185B&text_color=880E4F&icon_color=F48FB1&border_radius=15&hide_border=true)
+### Aleena Jamil's GitHub Stats
+![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
 
 </td>
 </tr>
 </table>
 
-![Technical Skills](https://capsule-render.vercel.app/api?type=rounded&color=0:F6C6CE,100:F6C6CE&height=80&section=header&text=Technical%20Skills%3A&fontSize=26&fontColor=C2185B&fontAlignY=55&fontAlign=8&animation=fadeIn)
+## Technical Skills:
 
-<p>
 logos of:
-</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,express,nodejs,ts,cpp,python,bash,postgresql,godot,html,css,js" />
