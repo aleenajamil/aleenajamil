@@ -1,5 +1,5 @@
-<h1 align="center">Heyyy, I'm Aleena</h1>
-<h3 align="center">I code!</h3>
+<h1 align="center">WELCOME TO MY PROFILE <3 </h1>
+<h3 align="center">I'm Aleena </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Check+Out+My+Repos!;Open+Source+Contributor;Always+Learning+Something+New;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
