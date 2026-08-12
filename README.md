@@ -1,19 +1,4 @@
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
-<tr>
-<td width="55%" valign="top">
-
-## About me :
-
-</td>
-<td width="45%" valign="top">
-
-### "What? Like it's hard?" — Elle Woods
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
+# About me :
 
 Hi there human, I am Aleena. I study Software Engineering.
 Here are a few things I'm passionate about:
@@ -28,28 +13,26 @@ Here are a few things I'm passionate about:
 Here are things I dislike but do anyway:
 - Leetcode
 
-</td>
-<td valign="top" align="center">
+> "What? Like it's hard?" — Elle Woods
 
-<img src="YOUR_STARRY_NIGHT_IMAGE_URL_HERE" width="100%" />
+<br>
 
-</td>
-</tr>
+<p align="center">
+<img src="PASTE_STARRY_NIGHT_RAW_URL_HERE" width="500" />
+</p>
 
-<tr>
-<td valign="top" align="center">
+<br>
 
-<img src="YOUR_TULIP_IMAGE_URL_HERE" width="100%" />
+<p align="center">
+<img src="PASTE_TULIP_RAW_URL_HERE" width="500" />
+</p>
 
-</td>
-<td valign="top">
+<br>
 
-### Aleena Jamil's GitHub Stats
+## Aleena Jamil's GitHub Stats
 ![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
 
-</td>
-</tr>
-</table>
+<br>
 
 ## Technical Skills:
 
@@ -61,8 +44,4 @@ logos of:
 
 <br>
 
-
-### 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg)
-
-> Generated automatically via GitHub Action — see workflow below.
