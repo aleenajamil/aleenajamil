@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<name: metrics
+name: metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
