@@ -9,7 +9,7 @@ Here are a few things I'm passionate about:
 - Mathematics
 - Game Dev
 - Ideation
-- <br>
+  <br>
 Here are things I dislike but do anyway:
 - Leetcode
 <br>
