@@ -13,7 +13,9 @@ Here are a few things I'm passionate about:
 Here are things I dislike but do anyway:
 - *Leetcode*
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&hide_border=true&theme=transparent" width="100%">
+![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
+ 
+<br>
 
 **My Contribution Snake** :
 ![snake gif](https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg)
