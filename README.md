@@ -1,4 +1,4 @@
-# About me :
+## About me :
  
 Hi there human, I am Aleena. I study Software Engineering.
 Here are a few things I'm passionate about:
@@ -9,6 +9,7 @@ Here are a few things I'm passionate about:
 - Mathematics
 - Game Dev
 - Ideation
+- <br>
 Here are things I dislike but do anyway:
 - Leetcode
 <br>
