@@ -1,8 +1,3 @@
-<table width="100%">
-<tr>
-
-<td width="60%" valign="top">
-
 ## About me
 
 Hi there human, I am Aleena. I study Software Engineering.
@@ -17,21 +12,17 @@ Here are a few things I'm passionate about:
 - *Ideation*
 
 <br><br>
-
 Here are things I dislike but do anyway:
-
 - *Leetcode*
 
-</td>
+## Aleena Jamil's GitHub Stats
+![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
+<br>
+## Technical Skills:
 
-<td width="40%" valign="top" align="center">
-
-  ![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,docker,express,nodejs,ts,linux,python,bash,postgresql,godot,html,css,js" />
+</p>
 
 <br>
 
