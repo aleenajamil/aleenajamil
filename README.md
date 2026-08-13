@@ -1,4 +1,4 @@
-### About me
+## About me
 
 Hi there human, I am Aleena. I study Software Engineering.
 
@@ -18,6 +18,7 @@ Here are things I dislike but do anyway:
 ### Aleena Jamil's GitHub Stats
 ![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
 <br>
+
 ### Technical Skills:
 
 <p align="center">
