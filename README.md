@@ -23,9 +23,17 @@ Here are things I dislike but do anyway:
 </tr>
 </table>
 
-### Aleena Jamil's GitHub Stats
-![Aleena Jamil's GitHub Stats](https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
-<br>
+### GitHub Stats
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true" />
+</td>
+<td>
+<img src="https://github-readme-stats-pi-ten-50.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical&hide_border=true" />
+</td>
+</tr>
+</table>
 
 ### Technical Stack:
 <p align="center">
