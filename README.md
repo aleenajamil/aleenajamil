@@ -1,4 +1,4 @@
-## About me
+## *About me :)*
 <table>
 <tr>
 <td width="50%">
