@@ -24,10 +24,10 @@ Here are things I dislike but do anyway:
 </table>
 
 ### Aleena Jamil's GitHub Stats
-![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
+![Aleena Jamil's GitHub Stats](https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
 <br>
 
-### Technical Skills:
+### Technical Stack:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,docker,express,nodejs,ts,linux,python,bash,postgresql,godot,html,css,js" />
 </p>
@@ -36,4 +36,3 @@ Here are things I dislike but do anyway:
 ### My Contribution Snake:
 ![snake gif](https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg)
 
-Two other things to check for the stats card not showing:
