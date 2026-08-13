@@ -12,7 +12,8 @@ Here are a few things I'm passionate about:
   <br><br>
 Here are things I dislike but do anyway:
 - *Leetcode*
-<br><br>
+<br>
+Contribution Snake :
 
 
 ![snake gif](https://raw.githubusercontent.com/aleenajamil/aleenajamil/output/github-contribution-grid-snake.svg)
