@@ -25,8 +25,7 @@ Here are things I dislike but do anyway:
 </td>
 
 <td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true">
+![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
 
 </td>
 
