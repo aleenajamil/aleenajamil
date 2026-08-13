@@ -3,13 +3,13 @@
 Hi there human, I am Aleena. I study Software Engineering.
 Here are a few things I'm passionate about:
  
-- Coding
-- History
-- Literature
-- Mathematics
-- Game Dev
-- Ideation
+- *Coding*
+- *History*
+- *Literature*
+- *Mathematics*
+- *Game Dev*
+- *Ideation*
   <br><br>
 Here are things I dislike but do anyway:
-- Leetcode
+- *Leetcode*
 <br>
