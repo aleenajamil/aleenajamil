@@ -18,7 +18,7 @@ Here are things I dislike but do anyway:
 
 </td>
 <td width="50%">
-<img src="https://media.giphy.com/media/RHjnkzoGRhaBu/giphy.gif" width="500" />
+<img src="assets/van gogh GIF.gif" width="500" />
 </td>
 </tr>
 </table>
