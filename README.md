@@ -13,6 +13,9 @@ Here are a few things I'm passionate about:
 Here are things I dislike but do anyway:
 - *Leetcode*
 <br>
+
+
+## Aleena Jamil's GitHub Stats
 ![Aleena Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true)
  
 <br>
