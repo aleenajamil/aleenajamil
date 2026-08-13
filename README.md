@@ -1,12 +1,12 @@
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td>
 
 LEFT SIDE
 
 </td>
 
-<td width="50%" valign="top">
+<td align="right">
 
 RIGHT SIDE
 
