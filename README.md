@@ -3,7 +3,7 @@
 <tr>
 <td width="50%">
 
-Hi there human, I am Aleena. I study Software Engineering.
+Hi there :), I am Aleena. I study Software Engineering.
 
 Here are a few things I'm passionate about:
 - *Coding*
