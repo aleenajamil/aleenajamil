@@ -30,7 +30,7 @@ Here are things I dislike but do anyway:
 <img src="https://github-readme-stats-pi-ten-50.vercel.app/api?username=aleenajamil&show_icons=true&theme=radical&hide_border=true" />
 </td>
 <td>
-<img src="https://github-readme-stats-pi-ten-50.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-pi-ten-50.vercel.app/api/top-langs/?username=aleenajamil&layout=compact&theme=radical&hide_border=true&exclude_repo=Zeenat&exclude_repo=repo-name=Portfolio-Generator" />
 </td>
 </tr>
 </table>
